@@ -1,4 +1,4 @@
-<img src="https://wallpapershome.com/images/pages/ico_h/20330.jpg" width=2000px height=100px>
+<img src="https://wallpapershome.com/images/pages/ico_h/20330.jpg" width=3000px height=500px>
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I ♥ to design large scale software, solve complex problems, and think about how technology can improve people's lives.
 
