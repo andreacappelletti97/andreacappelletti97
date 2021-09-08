@@ -3,7 +3,8 @@
 I ♥ to design large scale software, solve complex problems, and think about how technology can improve people's lives.
 
 
-[![Linkedin Badge]()](https://www.linkedin.com/in/andreacappelletti97/)
+<a href="https://www.linkedin.com/in/andreacappelletti97/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png" height=50px width=50px></a>
+[![Linkedin Badge]()]()
 [![Instagram Badge]()](https://www.instagram.com/_andreacappelletti/)
 [![Website Badge]()](https://andreacappelletti.com/)
 [![Gmail Badge]()](mailto:andreacappelletti97@gmail.com)
