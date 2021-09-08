@@ -7,7 +7,7 @@ I ♥ to design large scale software, solve complex problems, and think about ho
 <a href="https://andreacappelletti.com/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/20/20155.png" height=50px width=50px></a>
 <a href="mailto:andreacappelletti97@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/60/60543.png" height=50px width=50px></a>
 
-## ⚡ Domains:
+## Domains:
 - Backend engineering
 - Mobile Development
 - Machine Learning
