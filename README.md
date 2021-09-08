@@ -1,4 +1,4 @@
-![Header image](https://i.pinimg.com/originals/fd/ea/5d/fdea5da492280aa3dcb84491271efdc9.jpg)
+![Header image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvH_7exRH1aeW56p4eVPOtHdYuET_R9tJ1TBay9B22PQMBrufW8FYJv6iTbJPUEQZuquU&usqp=CAU)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I ♥ to design large scale software, solve complex problems, and think about how technology can improve people's lives.
 
