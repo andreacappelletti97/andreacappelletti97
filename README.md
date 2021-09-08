@@ -5,10 +5,10 @@ I ♥ to design large scale software, solve complex problems, and think about ho
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreacappelletti97/)](https://www.linkedin.com/in/andreacappelletti97/)
-[![Instagram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png)](https://www.instagram.com/_andreacappelletti/)
-[![Website Badge](https://img.shields.io/badge/-jayraj.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.andreacappelletti.com)](https://andreacappelletti.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreacappelletti97@gmail.com)](mailto:andreacappelletti97@gmail.com)
+[![Linkedin Badge])](https://www.linkedin.com/in/andreacappelletti97/)
+[![Instagram Badge]()](https://www.instagram.com/_andreacappelletti/)
+[![Website Badge]()](https://andreacappelletti.com/)
+[![Gmail Badge]()](mailto:andreacappelletti97@gmail.com)
 ## ⚡ Domains:
 - Backend engineering
 - Mobile Development
