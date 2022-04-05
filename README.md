@@ -5,7 +5,7 @@ I ♥ to design large scale software, solve complex problems, and think about ho
 <a href="https://www.linkedin.com/in/andreacappelletti97/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" height=50px width=50px></a>
 <a href="https://www.instagram.com/_andreacappelletti/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/1200px-Black_Instagram_icon.svg.png" height=50px width=50px></a>
 <a href="https://andreacappelletti.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/20/20155.png" height=50px width=50px></a>
-<a href="mailto:andreacappelletti97@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/60/60543.png" height=50px width=50px></a>
+<a href="mailto:andreacappelletti97@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/54/54215.png" height=50px width=50px></a>
 
 ## Domains:
 - Cloud Computing
